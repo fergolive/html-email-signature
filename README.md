@@ -2,4 +2,7 @@
 
 link: https://html-email-signature.vercel.app/
 
-![ScreenShot](/screenshot/card.png)
+![ScreenShot](/screenshot/emailscreen.png)
+
+
+Todavia no logro que aparezcan los iconos en el correo
